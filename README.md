@@ -18,7 +18,7 @@ allenamento ARM per architettura degli elaboratori
 14) conteggio di elementi in un array che non sono compresi in un intervallo dato	V
 15) contare il numero di elementi minori di una costante data, considerando solo gli elementi di posto dispari (a partire da 0) V
 16) dividere per 2 tutti gli elementi di un array maggiori di una costante fornita	V
-17) copiare su un nuovo array tutti gli elementi di un array sorgente maggiori di una costante
+17) copiare su un nuovo array tutti gli elementi di un array sorgente maggiori di una costante V
 18) somma degli elementi di posto dispari di un array	V
 19) divisione per una costante data di tutti gli elementi di un array 	V
 20) copia su un nuovo array di tutti gli elementi divisibili per 2	V
