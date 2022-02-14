@@ -22,10 +22,10 @@ allenamento ARM per architettura degli elaboratori
 18) somma degli elementi di posto dispari di un array	V
 19) divisione per una costante data di tutti gli elementi di un array 	V
 20) copia su un nuovo array di tutti gli elementi divisibili per 2	V
-21) ricerca su un array di una coppia di elementi contigui, i cui valori sono memorizzati su R5 e R6
-22) a partire da un vettore sorgente A, costruire un nuovo vettore B in cui b[i]= a[i] + a[i+1] 
-23) a partire da un vettore sorgente A, costruire un nuovo vettore B che contiene solo gli elementi di A divisibili per 4
-24) verificare se un vettore contiene almeno 2 elementi consecutivi uguali 
+21) ricerca su un array di una coppia di elementi contigui, i cui valori sono memorizzati su R5 e R6  V
+22) a partire da un vettore sorgente A, costruire un nuovo vettore B in cui b[i]= a[i] + a[i+1]   V
+23) a partire da un vettore sorgente A, costruire un nuovo vettore B che contiene solo gli elementi di A divisibili per 4 V
+24) verificare se un vettore contiene almeno 2 elementi consecutivi uguali    V
 25) dato un array con un numero N di elementi, con N pari, calcolare le somme degli elementi da 0 a (n/2)-1, e da n/2 a n
 26) dato un array e una costante k, determinare il numero di elementi minori di k e il numero di elementi maggiori di k, usando un solo loop
 27) dato un array calcolare a[0] + a[1] - a[2] + a[3] - a[4] + a[5] - ...
