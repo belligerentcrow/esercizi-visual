@@ -26,9 +26,9 @@ allenamento ARM per architettura degli elaboratori
 22) a partire da un vettore sorgente A, costruire un nuovo vettore B in cui b[i]= a[i] + a[i+1]   V
 23) a partire da un vettore sorgente A, costruire un nuovo vettore B che contiene solo gli elementi di A divisibili per 4 V
 24) verificare se un vettore contiene almeno 2 elementi consecutivi uguali    V
-25) dato un array con un numero N di elementi, con N pari, calcolare le somme degli elementi da 0 a (n/2)-1, e da n/2 a n
-26) dato un array e una costante k, determinare il numero di elementi minori di k e il numero di elementi maggiori di k, usando un solo loop
-27) dato un array calcolare a[0] + a[1] - a[2] + a[3] - a[4] + a[5] - ...
+25) dato un array con un numero N di elementi, con N pari, calcolare le somme degli elementi da 0 a (n/2)-1, e da n/2 a n     V
+26) dato un array e una costante k, determinare il numero di elementi minori di k e il numero di elementi maggiori di k, usando un solo loop    V
+27) dato un array calcolare a[0] + a[1] - a[2] + a[3] - a[4] + a[5] - ...       V
 28) dato un array A di dimensione N, determinare l'indice k che contiene un elemento dato, e copiare, su un nuovo vettore, gli elementi da K a N-1 
 29) dato un array A copiare su un nuovo array tutti gli elementi compresi in un intervallo dato 
 30) dato un array A, contare tutte le occorrenze di una coppia contigua di elementi dati
