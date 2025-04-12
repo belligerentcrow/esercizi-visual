@@ -1,5 +1,7 @@
 # esercizi-visual
-allenamento ARM per architettura degli elaboratori
+Scendi giù per le [foto del progetto che ho portato all'esame](#progetto-per-lesame)
+
+## allenamento ARM per architettura degli elaboratori
 
 1) Bubble sort	 				V
 2) Calcolo del massimo				V
@@ -37,3 +39,17 @@ allenamento ARM per architettura degli elaboratori
 33) dato un vettore A, generare un nuovo vettore B contenente i valori di A che non sono compresi in un intervallo x,y fornito
 34) dati due array A e B, costruire un terzo array C tale che c[i] = a[i] * b[i]
 35) dati due array A e B, costruire un terzo array C in cui sono presenti gli elementi di A e B posti nel seguente modo: a[0], b[0], a[1], b[1] ...
+
+## Progetto per l'esame 
+
+### 2bit Adder su Breadboard
+<img src="./progettoesame/5.jpg" alt="" width="200"/> <br>
+<img src="./progettoesame/1.jpg" alt="" width="200"/> <img src="./progettoesame/2.jpg" alt="" width="200"/> <img src="./progettoesame/3.jpg" alt="" width="200"/> <img src="./progettoesame/4.jpg" alt="" width="200"/> 
+
+### Progetto alternativo logico 
+<img src="./progettoesame/Progetto1.jpeg" alt="drawing" width="300"/>
+<img src="./progettoesame/Progetto3.jpeg" alt="drawing" width="300"/>
+
+### Progetto in Logisim e Assembly
+[Qui](https://github.com/belligerentcrow/esercizi-visual/blob/main/progettoesame/ProgettoInLogisim.circ) il circuito; da aprire con l'applicazione Logisim.  
+[Qui](https://github.com/belligerentcrow/esercizi-visual/blob/main/progettoesame/progetto_esame.S) il progetto in Assembly 
